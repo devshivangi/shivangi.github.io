@@ -1,0 +1,7 @@
+- generators:
+        - 'id': {type: 'number_sequence', start: 10}
+        - 'name': {type: 'number_sequence', start: 10}
+        - 'description': {type: 'number_sequence', start: 10}
+        - 'title': {type: 'number_sequence', start: 10}
+        - 'function': {type: 'number_sequence', start: 10}
+        - 'key': {type: 'number_sequence', start: 10}
